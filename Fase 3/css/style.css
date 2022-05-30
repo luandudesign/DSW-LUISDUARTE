@@ -48,6 +48,7 @@ section {
     background: #82DBD8;
     color: aliceblue;
     grid-column: 1/4;
+    display: flexbox;
     
 }
 
